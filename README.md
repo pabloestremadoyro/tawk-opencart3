@@ -33,16 +33,7 @@ Note: You will need a free tawk.to account to generate the embed code, create on
 
 == Changelog ==
 
-= 1.2.0 = compatibility with Opencart 3.0.2.0
-
-= 1.2.0 =
-* Added visibility options to tawk.to module config page, to control the display of the chat widget in the frontend
-
-= 1.1.0 =
-* Updated tawk.to module config page to use new widget app
-
-= 1.0.0 =
-* Choose desired widget and it will be inserted in your site
+= 1.3.0 = compatibility with Opencart 3.0.2.0
 
 == Frequently Asked Questions ==
 
